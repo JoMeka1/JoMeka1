@@ -31,9 +31,3 @@ First sale and client delivery in 3 days. *(React, Supabase — ongoing)*
 **[SIRIUS](https://github.com/SiriusUdS)** — Aerospace engineering group at UdeS.  
 Embedded state machine + telemetry for a liquid-fuel rocket, Launch Canada competition.  
 *(STM32, Raspberry Pi, C — ongoing)*
-
----
-
-## 📬 Contact
-
-[linkedin.com/in/jovanny-meka](https://linkedin.com/in/jovanny-meka) · Jovanny.Meka@usherbrooke.ca
