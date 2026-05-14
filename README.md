@@ -1,8 +1,8 @@
 # Jovanny Meka
 
-Étudiant en génie informatique (coop) à l'UdeS.  
-J'utilise mes compétences pour résoudre des problèmes concrets —  
-du pipeline CI/CD en production aux systèmes embarqués pour une fusée.
+Computer Engineering student (co-op) at Université de Sherbrooke.  
+I use my skills to solve concrete problems —  
+from CI/CD pipelines in production to embedded systems for a rocket.
 
 ---
 
@@ -23,15 +23,16 @@ du pipeline CI/CD en production aux systèmes embarqués pour une fusée.
 
 ---
 
-## 🚀 Ce sur quoi je travaille
+## 🚀 What I'm working on
 
-**[RSVPINOV.COM](https://rsvpinov.com/fr "RSVPINOV.COM")** — Plateforme commerciale de sites de gestion de mariage.  
-Première vente et livraison client en 3 jours. *(React, Supabase — en cours)*
+**[RSVPINOV.COM](https://rsvpinov.com/en)** — Commercial platform for wedding management websites.  
+First sale and client delivery in 3 days. *(React, Supabase — ongoing)*
 
-**[SIRIUS](https://github.com/SiriusUdS/)** — Groupe technique aérospatial à l'UdeS.  
-Machine à état embarquée + télémétrie pour fusée à moteur liquide, compétition Launch Canada.  
-*(STM32, Raspberry Pi, C — en cours)*
+**[SIRIUS](https://github.com/SiriusUdS)** — Aerospace engineering group at UdeS.  
+Embedded state machine + telemetry for a liquid-fuel rocket, Launch Canada competition.  
+*(STM32, Raspberry Pi, C — ongoing)*
 
+---
 
 ## 📬 Contact
 
