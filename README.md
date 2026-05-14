@@ -32,15 +32,6 @@ Première vente et livraison client en 3 jours. *(React, Supabase — en cours)*
 Machine à état embarquée + télémétrie pour fusée à moteur liquide, compétition Launch Canada.  
 *(STM32, Raspberry Pi, C — en cours)*
 
----
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoMeka1&show_icons=true&hide_border=true&theme=dark&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoMeka1&layout=compact&hide_border=true&theme=dark&cache_seconds=1800)
-
----
 
 ## 📬 Contact
 
