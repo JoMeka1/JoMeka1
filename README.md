@@ -1,16 +1,46 @@
-## Hi there 👋
+# Jovanny Meka
 
-<!--
-**JoMeka1/JoMeka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en génie informatique (coop) à l'UdeS.  
+J'utilise mes compétences pour résoudre des problèmes concrets —  
+du pipeline CI/CD en production aux systèmes embarqués pour une fusée.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+
+---
+
+## 🚀 Ce sur quoi je travaille
+
+**RSVPINOV.COM** — Plateforme commerciale de sites de gestion de mariage.  
+Première vente et livraison client en 3 jours. *(React, Supabase — en cours)*
+
+**SIRIUS** — Groupe technique aérospatial à l'UdeS.  
+Machine à état embarquée + télémétrie pour fusée à moteur liquide, compétition Launch Canada.  
+*(STM32, Raspberry Pi, C — en cours)*
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoMeka1&show_icons=true&hide_border=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoMeka1&layout=compact&hide_border=true)
+
+---
+
+## 📬 Contact
+
+[linkedin.com/in/jovanny-meka](https://linkedin.com/in/jovanny-meka) · Jovanny.Meka@usherbrooke.ca
