@@ -28,7 +28,7 @@ du pipeline CI/CD en production aux systèmes embarqués pour une fusée.
 **[RSVPINOV.COM](https://rsvpinov.com/fr "RSVPINOV.COM")** — Plateforme commerciale de sites de gestion de mariage.  
 Première vente et livraison client en 3 jours. *(React, Supabase — en cours)*
 
-**SIRIUS** — Groupe technique aérospatial à l'UdeS.  
+**[SIRIUS](https://github.com/SiriusUdS/)** — Groupe technique aérospatial à l'UdeS.  
 Machine à état embarquée + télémétrie pour fusée à moteur liquide, compétition Launch Canada.  
 *(STM32, Raspberry Pi, C — en cours)*
 
