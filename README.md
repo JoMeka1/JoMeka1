@@ -25,7 +25,7 @@ du pipeline CI/CD en production aux systèmes embarqués pour une fusée.
 
 ## 🚀 Ce sur quoi je travaille
 
-**[https](https://rsvpinov.com/fr "RSVPINOV.COM")** — Plateforme commerciale de sites de gestion de mariage.  
+**[RSVPINOV.COM](https://rsvpinov.com/fr "RSVPINOV.COM")** — Plateforme commerciale de sites de gestion de mariage.  
 Première vente et livraison client en 3 jours. *(React, Supabase — en cours)*
 
 **SIRIUS** — Groupe technique aérospatial à l'UdeS.  
